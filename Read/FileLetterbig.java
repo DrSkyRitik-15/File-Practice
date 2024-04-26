@@ -22,7 +22,7 @@ public class FileLetterbig {
 
            
 
-            reader.close();
+            // reader.close();
         } catch (IOException e) {
             System.out.println("File not found or error reading the file.");
         }
